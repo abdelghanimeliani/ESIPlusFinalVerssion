@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#F1F3F6"/>
+    <item android:top="-2dp" android:right="-2dp" android:left="-2dp">
+        <shape>
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:dashGap="10px"
+                android:dashWidth="0dp"
+                android:width="2dp"
+                android:color="#0090FF" />
+        </shape>
+    </item>
+</shape>

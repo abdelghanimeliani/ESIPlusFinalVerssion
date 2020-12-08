@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/planner_week"
+        android:icon="@drawable/weeks"
+        android:title="Week Maneger"/>
+    <item android:id="@+id/planner_does"
+        android:icon="@drawable/todo"
+        android:title="To Do"/>
+    <item android:id="@+id/planner_note"
+        android:icon="@drawable/note"
+        android:title="Notes"/>
+
+</menu>
