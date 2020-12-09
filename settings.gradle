@@ -1,0 +1,2 @@
+rootProject.name='ESIApp'
+include ':app'
